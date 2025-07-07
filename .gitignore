@@ -1,0 +1,17 @@
+# Compilados
+*.class
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.zip
+*.rar
+*.tmp
