@@ -1,17 +1,44 @@
-# Compilados
+### Java ###
 *.class
+*.jar
+*.war
 
-# IDEs
+# IntelliJ IDEA
 .idea/
-.vscode/
 *.iml
-*.log
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
 
 # Sistema
 .DS_Store
 Thumbs.db
 
-# Arquivos temporários
+# Arquivos compactados e backups
 *.zip
 *.rar
-*.tmp
+*.7z
+*.tar.gz
+*.bak
