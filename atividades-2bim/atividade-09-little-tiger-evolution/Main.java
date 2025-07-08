@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static final String LITTLE_TIBER_EVOLUTION = "Little Tiger Evolution";
+    private static final String LITTLE_TIGER_EVOLUTION = "Little Tiger Evolution";
     private static final int NOME = 0;
     private static final int ENDERECO = 1;
     private static final int EMAIL = 2;
@@ -12,7 +12,7 @@ public class Main {
     private static List<String[]> doadores = new ArrayList<>();
 
     public static void main(String[] args) {
-        System.out.println(LITTLE_TIBER_EVOLUTION);
+        System.out.println(LITTLE_TIGER_EVOLUTION);
         exibirMenu();
     }
     private static void exibirMenu(){
@@ -36,7 +36,7 @@ public class Main {
             if (opcao == 2) listarDoadores();
             if (opcao == 3) System.out.println(alterarDoador());
             if (opcao == 4) System.out.println(removerDoador());
-            if (opcao == 5) System.out.println("Finalizando o " + LITTLE_TIBER_EVOLUTION);
+            if (opcao == 5) System.out.println("Finalizando o " + LITTLE_TIGER_EVOLUTION);
         } while (opcao != 5);
 
     }
@@ -84,7 +84,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("""
                 ------------------------
-                 Remoção de doadores
+                 Alteração de doadores
                 ------------------------
                 """);
         System.out.println("Informe o index do doador: ");
