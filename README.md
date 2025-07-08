@@ -8,22 +8,39 @@ Este repositório reúne os exercícios, atividades e trabalhos desenvolvidos ao
 
 ## 🗂️ Organização
 
-| Pasta               | Conteúdo                                   |
-|---------------------|--------------------------------------------|
-| `atividades-1bim/`  | Exercícios do 1º bimestre (Java básico)    |
-| `atividades-2bim/`  | Exercícios do 2º bimestre (sistemas simulados) |
-| `00-backups_envios/`| Arquivos .zip/.rar enviados para a faculdade |
+| Pasta               | Conteúdo                                          |
+|---------------------|---------------------------------------------------|
+| `atividades-1bim/`  | Exercícios do 1º bimestre (Java básico)           |
+| `atividades-2bim/`  | Exercícios do 2º bimestre (sistemas simulados)    |
+| `trabalhos/`        | Trabalhos avaliativos do 1º e 2º bimestres        |
+| `destaques/`        | Documentações em Markdown com prints e explicações |
+| `00-backups_envios/`| Arquivos .zip/.rar enviados para a faculdade      |
 
 ---
 
 ## 🌟 Destaques para o portfólio
 
-| Atividade                                 | Motivo                                        | Detalhes                                      |
-|-------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| `atividade-06-sistema-clientes-doacoes`   | CRUD simples com validação de idade e menu    | [📄 Ver destaque](destaques/destaque-atividade-06.md) |
-| `atividade-08-arraylist-menu`             | Cadastro com `ArrayList` e controle de opções | [📄 Ver destaque](destaques/destaque-atividade-08.md) |
-| `atividade-09-little-tiger-evolution`     | Sistema completo com `String[]` e listas      | [📄 Ver destaque](destaques/destaque-atividade-09.md) |
+| Atividade                                | Motivo                                        | Detalhes                                          |
+|------------------------------------------|-----------------------------------------------|---------------------------------------------------|
+| `atividade-06-sistema-clientes-doacoes`  | CRUD simples com validação de idade e menu    | [📄 Ver destaque](destaques/destaque-atividade-06.md) |
+| `atividade-08-arraylist-menu`            | Cadastro com `ArrayList` e controle de opções | [📄 Ver destaque](destaques/destaque-atividade-08.md) |
+| `atividade-09-little-tiger-evolution`    | Sistema completo com `String[]` e listas      | [📄 Ver destaque](destaques/destaque-atividade-09.md) |
+| `trabalho-2bim`                          | Sistema completo de Locadora com CRUD         | [📄 Ver destaque](destaques/destaque-trabalho-2bim.md) |
 
+---
+
+## 🧩 Destaques visuais – Exercícios
+
+Alguns exercícios foram documentados com prints e explicações técnicas em Markdown.  
+Eles estão disponíveis na pasta [`/destaques`](destaques/) e incluem:
+
+| Exercício | Tema                                 | Acesso ao destaque                                      |
+|-----------|--------------------------------------|---------------------------------------------------------|
+| 04        | Calculadora simples                  | [📄 Ver destaque](destaques/destaque-exercicio04.md)    |
+| 06        | Verificação de número primo          | [📄 Ver destaque](destaques/destaque-exercicio06.md)    |
+| 07        | Cálculo de fatorial                  | [📄 Ver destaque](destaques/destaque-exercicio07.md)    |
+| 11        | Verificação de senha com tentativas  | [📄 Ver destaque](destaques/destaque-exercicio11.md)    |
+| 14        | Validação de idade com `do-while`    | [📄 Ver destaque](destaques/destaque-exercicio14.md)    |
 
 ---
 

@@ -27,6 +27,21 @@ A lista foi realizada em dupla, com cada exercício representando uma classe Jav
 
 ---
 
+## 🌟 Destaques visuais
+
+Alguns exercícios foram documentados com prints e explicações técnicas em Markdown.  
+Eles estão disponíveis na pasta [`/destaques`](../destaques/) e incluem:
+
+| Exercício | Tema                                 | Acesso ao destaque |
+|-----------|--------------------------------------|---------------------|
+| 04        | Calculadora simples                  | [📄 Ver destaque](../destaques/destaque-exercicio04.md) |
+| 06        | Verificação de número primo          | [📄 Ver destaque](../destaques/destaque-exercicio06.md) |
+| 07        | Cálculo de fatorial                  | [📄 Ver destaque](../destaques/destaque-exercicio07.md) |
+| 11        | Verificação de senha com tentativas  | [📄 Ver destaque](../destaques/destaque-exercicio11.md) |
+| 14        | Validação de idade com `do-while`    | [📄 Ver destaque](../destaques/destaque-exercicio14.md) |
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 
 - Java 8+
