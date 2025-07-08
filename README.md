@@ -1,48 +1,46 @@
 # Projetos Java – 2º Período (Faculdade UniALFA)
 
-Este repositório reúne os exercícios, atividades e trabalhos realizados durante o 2º período da disciplina de Java Básico.
+Este repositório reúne os exercícios, atividades e trabalhos desenvolvidos ao longo do 2º período da disciplina de Java.
 
-> **Nota:** Durante esse período, ainda não havíamos estudado Programação Orientada a Objetos (POO). Todos os projetos aqui usam Java estruturado, com foco em lógica de programação, estrutura de controle, manipulação de dados e fundamentos da linguagem.
-
-## 📁 Estrutura por Bimestre
-
-- `01-aula-*`: Exercícios de sala do 1º bimestre
-- `01-trabalho-1bim`: Trabalho avaliativo do 1º bimestre
-- `02-aula-*`: Exercícios de sala do 2º bimestre
-- `02-trabalho-*`: Trabalhos avaliativos do 2º bimestre
-- `00-backups_envios`: Pastas e arquivos .zip/.rar enviados para o professor
-
-## ⚙️ Status de Revisão
-
-| Pasta                           | Status       | Observações                       |
-|--------------------------------|--------------|-----------------------------------|
-| 01-aula-04                     | 🔄 Em revisão | Iniciando refatoração             |
-| 01-aula-06                     | ⏳ Pendente   |                                   |
-| 01-aula-06-b                   | ⏳ Pendente   |                                   |
-| 01-trabalho-1bim               | ⏳ Pendente   |                                   |
-| 02-aula-08                     | ⏳ Pendente   |                                   |
-| 02-aula-09                     | ⏳ Pendente   |                                   |
-| 02-aula-11                     | ⏳ Pendente   |                                   |
-| 02-trabalho-2bim               | ⏳ Pendente   |                                   |
-| 02-trabalho-2bim (litter...)   | ⏳ Pendente   |                                   |
+> **Nota:** Durante esse período, ainda não havíamos estudado Programação Orientada a Objetos (POO). Os projetos aqui usam Java estruturado, com foco em lógica de programação, controle de fluxo, manipulação de dados e simulações básicas de sistemas.
 
 ---
 
-## 🔧 Tecnologias utilizadas
+## 🗂️ Organização
+
+| Pasta               | Conteúdo                                   |
+|---------------------|--------------------------------------------|
+| `atividades-1bim/`  | Exercícios do 1º bimestre (Java básico)    |
+| `atividades-2bim/`  | Exercícios do 2º bimestre (sistemas simulados) |
+| `00-backups_envios/`| Arquivos .zip/.rar enviados para a faculdade |
+
+---
+
+## 🌟 Destaques para o portfólio
+
+| Atividade                                   | Motivo                                        |
+|---------------------------------------------|-----------------------------------------------|
+| `atividade-06-sistema-clientes-doacoes`     | CRUD simples com validação de idade e menu    |
+| `atividade-08-arraylist-menu`              | Cadastro com `ArrayList` e controle de opções |
+| `atividade-09-little-tiger-evolution`       | Sistema completo com CRUD usando `String[]` e listas |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - Java 8+
-- IDE: IntelliJ IDEA / NetBeans / VS Code
-- Compilação via `javac` ou pela IDE
-- Execução em terminal ou pela interface da IDE
+- IDEs: IntelliJ IDEA, NetBeans, VS Code com extensões Java
+- Execução via terminal ou pela interface da IDE
+- Estrutura modular com organização por bimestre
 
 ---
 
 ## 📌 Objetivo
 
-Organizar e revisar os projetos feitos durante o 2º período, preparando-os para portfólio e histórico acadêmico.
+Organizar e revisar todos os projetos desenvolvidos no 2º período, melhorando sua estrutura e documentação para uso no portfólio pessoal.
 
 ---
 
-## ✍️ Licença
+## 📝 Licença
 
 [MIT License](LICENSE.txt)
