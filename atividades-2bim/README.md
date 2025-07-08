@@ -5,18 +5,21 @@ Nesta etapa, os exercícios evoluem para simular pequenos sistemas com múltipla
 
 ## 📘 Lista de Atividades
 
-| Nº  | Pasta                                  | Tema Principal               | Conceitos Trabalhados                                |
-|-----|----------------------------------------|-------------------------------|------------------------------------------------------|
-| 06  | `atividade-06-sistema-clientes-doacoes`| Mini sistema de cadastro e doações | `switch`, `do-while`, `Scanner`, métodos, validação |
+| Nº  | Pasta                                  | Tema Principal                        | Conceitos Trabalhados                                       |
+|-----|----------------------------------------|----------------------------------------|-------------------------------------------------------------|
+| 06  | `atividade-06-sistema-clientes-doacoes`| Mini sistema de cadastro e doações     | `switch`, `do-while`, `Scanner`, métodos, validação         |
+| 07  | `atividade-07-array-simples`           | Cadastro simples com array fixo        | `String[]`, `do-while`, controle de índice, estrutura básica|
+| 08  | `atividade-08-arraylist-menu`          | Cadastro com `ArrayList` e menu        | `ArrayList`, `List`, `Scanner`, estrutura de menu textual   |
+| 09  | `atividade-09-little-tiger-evolution`  | Sistema completo de doadores           | `ArrayList<String[]>`, `switch`, métodos, menu, CRUD        |
 
 ---
 
 ## 🛠️ Tecnologias
 
 - Linguagem: **Java 8+**
-- Execução via terminal ou IDE (ex: IntelliJ IDEA)
-- Atividades feitas em modo estruturado, com simulação de sistema
+- Execução via terminal ou IDE (ex: IntelliJ IDEA ou VS Code com extensões)
+- Atividades feitas em modo estruturado, simulando sistemas sem POO
 
 ## 🔖 Observação
 
-Estas atividades refletem a transição entre exercícios simples e simulações mais completas. O objetivo é desenvolver a lógica e a organização de código antes de partir para POO (3º período).
+Estas atividades refletem a transição entre exercícios básicos e simulações de sistemas reais. São a base para a introdução à Programação Orientada a Objetos (POO), que será aprofundada no 3º período.
