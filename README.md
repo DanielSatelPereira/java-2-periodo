@@ -18,11 +18,12 @@ Este repositório reúne os exercícios, atividades e trabalhos desenvolvidos ao
 
 ## 🌟 Destaques para o portfólio
 
-| Atividade                                   | Motivo                                        |
-|---------------------------------------------|-----------------------------------------------|
-| `atividade-06-sistema-clientes-doacoes`     | CRUD simples com validação de idade e menu    |
-| `atividade-08-arraylist-menu`              | Cadastro com `ArrayList` e controle de opções |
-| `atividade-09-little-tiger-evolution`       | Sistema completo com CRUD usando `String[]` e listas |
+| Atividade                                 | Motivo                                        | Detalhes                                      |
+|-------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| `atividade-06-sistema-clientes-doacoes`   | CRUD simples com validação de idade e menu    | [📄 Ver destaque](destaques/destaque-atividade-06.md) |
+| `atividade-08-arraylist-menu`             | Cadastro com `ArrayList` e controle de opções | [📄 Ver destaque](destaques/destaque-atividade-08.md) |
+| `atividade-09-little-tiger-evolution`     | Sistema completo com `String[]` e listas      | [📄 Ver destaque](destaques/destaque-atividade-09.md) |
+
 
 ---
 

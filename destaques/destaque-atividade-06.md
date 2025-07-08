@@ -23,7 +23,7 @@ O objetivo desta atividade foi aplicar estruturas de controle como `switch`, `do
 
 ## 💻 Menu do sistema
 
-![Menu da aplicação](.screenshots/atividade-06-menu.png)
+![Menu da aplicação](.screenshots/atividade-06-interface.png)
 
 ---
 
