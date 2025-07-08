@@ -5,12 +5,13 @@ As atividades seguem uma ordem crescente de complexidade, com foco em fundamento
 
 ## 📘 Lista de Atividades
 
-| Nº  | Pasta                                 | Tema Principal                          | Conceitos Trabalhados                        |
-|-----|----------------------------------------|------------------------------------------|----------------------------------------------|
-| 01  | `atividade-01-nome-com-args`          | Mensagem com argumentos do terminal      | `String[] args`, `System.out`, `Scanner`     |
-| 02  | `atividade-02-operador-logico`        | Operadores lógicos e comparação          | `if`, `else`, `boolean`, operadores `&&`, `||` |
-| 03  | `atividade-03-somadora`               | Soma de dois números                     | `Scanner`, `int`, `+`, entrada de dados      |
-| 04  | `atividade-04-validacao-idade`        | Validação de idade com resposta dinâmica| `do-while`, `if/else`, múltiplos `Scanner`   |
+| Nº  | Pasta                                    | Tema Principal                           | Conceitos Trabalhados                           |
+|-----|------------------------------------------|-------------------------------------------|--------------------------------------------------|
+| 01  | `atividade-01-nome-com-args`            | Mensagem com argumentos do terminal       | `String[] args`, `System.out`, `Scanner`        |
+| 02  | `atividade-02-operador-logico`          | Operadores lógicos e comparação           | `if`, `else`, `boolean`, operadores `&&`, `||`  |
+| 03  | `atividade-03-somadora`                 | Soma de dois números                      | `Scanner`, `int`, `+`, entrada de dados         |
+| 04  | `atividade-04-validacao-idade-do-while` | Validação de idade com resposta dinâmica | `do-while`, `if/else`, múltiplos `Scanner`      |
+| 05  | `atividade-05-estruturas-repeticao`     | Laços de repetição básicos                | `while`, `do-while`, `for`, contadores          |
 
 ---
 
@@ -23,5 +24,3 @@ As atividades seguem uma ordem crescente de complexidade, com foco em fundamento
 ## 🔖 Observação
 
 Essas atividades representam meus primeiros passos com Java. A ideia é manter o código original como registro de aprendizado, sem grandes refatorações por enquanto.
-
----
